@@ -63,6 +63,11 @@
   display: flex;
   gap: 20px;
 }
+.seciton1 .divleftss1 {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
 
 .seciton2 {
   display: flex;
