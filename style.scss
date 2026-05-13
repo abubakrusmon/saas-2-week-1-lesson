@@ -296,6 +296,7 @@
     background: white;
     border-radius: 10px;
     padding: 30px;
+    box-shadow: 0px 0px 10px rgba(181, 175, 175, 0.651);
 }
 
 .imgss5 {
@@ -311,4 +312,56 @@
 
 .pag2ss5 {
     color: gray;
+}
+.section6 {
+    background: #eef4ff;
+    padding: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.leftss6 {
+    width: 400px;
+}
+
+.pagss6 {
+    color: blue;
+    margin-bottom: 20px;
+}
+
+.zgss6 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.textss6 {
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.btnboxss6 {
+    display: flex;
+    gap: 20px;
+}
+
+.btnss6 {
+    width: 140px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background: white;
+}
+
+.btn2ss6 {
+    width: 140px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background: #2d2d6d;
+    color: white;
+}
+
+.imgss6 {
+    width: 700px;
 }
